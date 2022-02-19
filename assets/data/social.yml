@@ -509,3 +509,11 @@ rss:
   Newtab: true
   Icon:
     Class: fas fa-rss fa-fw
+# 065
+cheers:
+  Weight: 65
+  Template: https://%v.cheers.bio/
+  Title: cheers
+  Newtab: true
+  Icon:
+    Src: svg/icons/cheers.svg
